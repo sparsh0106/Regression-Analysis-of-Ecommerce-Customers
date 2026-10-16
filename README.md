@@ -122,3 +122,9 @@ Feel free to fork the repository, submit issues, or create pull requests to enha
 ## License
 
 This project is licensed under the MIT License.
+
+---
+
+## 👤 Author
+
+**Sparsh Agarwal** — [GitHub](https://github.com/sparsh0106) · [LinkedIn](https://www.linkedin.com/in/sparsh-agarwal-4b443b304/)
